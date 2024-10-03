@@ -1,0 +1,1 @@
+- Stijl van programmeren die invloed heeft op de manier waarop de uitvoering van de code gebeurt en die getypeerd wordt door de elementen die in de programmeertaal gebruikt worden (wel/geen variabelen, functies, objecten,...)
