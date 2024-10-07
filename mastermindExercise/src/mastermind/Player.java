@@ -2,9 +2,10 @@ package mastermind;
 //@author Nino Verstraeten - Groep 8
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Player {
-    private final ArrayList<UserGuess> guesses = new ArrayList<>();
+    private final List<UserGuess> guesses = new ArrayList<>();
 
     public Player() {
 
@@ -20,7 +21,7 @@ public class Player {
         return guess;
     }
 
-    public ArrayList<UserGuess> getGuesses() {
+    public List<UserGuess> getGuesses() {
         return guesses;
     }
 
