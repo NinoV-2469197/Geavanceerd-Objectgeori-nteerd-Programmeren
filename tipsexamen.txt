@@ -1,1 +1,4 @@
 - Exception handling voor 5 punten op examen
+- Geen class diagrams op examen
+- No state diagrams, weet wat het is maar sequence diagrams zijn belangrijk
+- UI design laat vallen
