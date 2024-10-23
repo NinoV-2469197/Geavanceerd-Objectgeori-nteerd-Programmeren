@@ -1,0 +1,5 @@
+Bounded Type Parameter
+Type Inference
+Upper Bounded Wildcards
+
+- Kunnen uitleggen en gebruiken!!!
